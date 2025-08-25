@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Kripa Dev G**
+# 👋 Hi there, I'm **Er Kripa Nand**
 
 <div align="center">
 
