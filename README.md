@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 ## 📊 **Professional Stats**
 
 <div align="center">
@@ -27,8 +25,6 @@
 | **5+ Years**  | **50+**     | **100%**        | **24/7**        |
 
 </div>
-
----
 
 ## 🏢 **Currently Working At**
 
@@ -52,7 +48,6 @@
 - Real-time monitoring and management capabilities
 - Cross-platform compatibility (Android & iOS)
 
----
 
 ## 🛠️ **Tech Arsenal**
 
@@ -81,41 +76,6 @@
 
 </div>
 
----
-
-## 💼 **What I Bring to Your Team**
-
-```dart
-class KripaDevG extends FlutterDeveloper {
-  final String experience = "5+ Years";
-  final String currentRole = "Senior Flutter Developer";
-  final String company = "EverestIMS Technologies";
-  
-  List<String> expertise = [
-    "Cross-platform Mobile Development",
-    "Enterprise Mobile Applications",
-    "AI-powered Mobile Solutions",
-    "Asset Management Systems",
-    "Real-time Data Synchronization",
-    "Performance Optimization",
-    "UI/UX Implementation",
-    "API Integration"
-  ];
-  
-  Map<String, String> achievements = {
-    "Apps Deployed": "50+ Production Apps",
-    "Client Satisfaction": "100%",
-    "Code Quality": "Clean Architecture",
-    "Team Leadership": "Mentoring Junior Developers"
-  };
-  
-  void buildAmazingApps() {
-    print("Ready to create your next mobile success story! 🚀");
-  }
-}
-```
-
----
 
 ## 🎯 **Specialized In**
 
@@ -144,8 +104,6 @@ class KripaDevG extends FlutterDeveloper {
 </tr>
 </table>
 
----
-
 ## 📈 **GitHub Stats**
 
 <div align="center">
@@ -158,7 +116,6 @@ class KripaDevG extends FlutterDeveloper {
 
 </div>
 
----
 
 ## 🌟 **Why Hire Me?**
 
@@ -180,7 +137,6 @@ class KripaDevG extends FlutterDeveloper {
 - 📊 **Performance Optimization** specialist
 - 🌍 **Cross-platform** development expert
 
----
 
 ## 📞 **Let's Build Something Amazing Together!**
 
@@ -201,8 +157,6 @@ class KripaDevG extends FlutterDeveloper {
 
 </div>
 
----
-
 <div align="center">
 
 ### 💫 **"Turning ideas into beautiful, functional mobile experiences"**
@@ -213,7 +167,6 @@ class KripaDevG extends FlutterDeveloper {
 
 </div>
 
----
 
 <div align="center">
 
